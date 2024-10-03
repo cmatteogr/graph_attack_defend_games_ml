@@ -1,5 +1,5 @@
-torch~=2.4.1
 networkx~=3.3
-torch_geometric~=2.5.3
 pandas~=2.2.2
 ydata-profiling~=4.9.0
+torch~=2.4.1+cu124
+torch-geometric~=2.6.1
