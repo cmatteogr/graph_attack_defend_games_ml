@@ -1,2 +1,4 @@
-networkx~=3.3
-pandas~=2.2.2
+torch~=2.0.0+cu117
+networkx~=3.2.1
+torch-geometric~=2.6.1
+pandas~=2.2.3
