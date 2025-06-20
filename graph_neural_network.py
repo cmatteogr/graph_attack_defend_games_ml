@@ -1,12 +1,6 @@
 # import libraries
 import os.path as osp
-import time
-
 import torch
-import torch.nn.functional as F
-from torch.nn import Parameter
-from tqdm import tqdm
-
 from torch_geometric.datasets import RelLinkPredDataset
 from torch_geometric.nn import GAE, GCNConv
 from sklearn.metrics import roc_auc_score
