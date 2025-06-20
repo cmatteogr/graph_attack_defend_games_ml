@@ -1,10 +1,8 @@
-# graph_attack_defend_games_ml
-
 # Graph Attack-Defense Game
 
+![graphs_ml](https://github.com/user-attachments/assets/132f39a8-8065-47f8-9f38-ffc8105b2bdd)
 
-
-This project uses the dataset CIC-IDS2017, the dataset records the traffic between servers. Benign traffic and cyberattacks.
+This project uses the dataset [CIC-IDS2017](https://www.unb.ca/cic/datasets/ids-2017.html), the dataset records the traffic between servers. Benign traffic and cyberattacks.
 All the traffics are modeled in flow level: fwd packages, bwr packages, flags, protocols, IPs, etc.
 
 We are using Graphs + Machine Learning to model the dataset and find useful patterns:
